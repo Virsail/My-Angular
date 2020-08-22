@@ -154,6 +154,10 @@ body {
     background-color: #d1d1d1;
     box-shadow: 0 0 20px 7px rgba(0,0,0,0.1);
   }
+
+  .timer {
+    text-align: center;
+  }
   .card-body h5{
     color: #283b42;
   }
