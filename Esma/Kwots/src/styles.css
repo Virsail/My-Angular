@@ -30,6 +30,9 @@ body {
     font-weight: lighter;
   }
   
+  .news {
+    text-align: center;
+  }
   p {
     font-size: 21px;
     color: white;
