@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Kwot } from '../quote';
+import { Quote } from '../quote';
 
 @Component({
   selector: 'app-form',
