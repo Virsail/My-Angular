@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Goal } from '../goal';
+import { Kwot } from '../quote';
 
 @Component({
   selector: 'app-form',
@@ -7,6 +7,8 @@ import { Goal } from '../goal';
   styleUrls: ['./form.component.css']
 })
 export class FormComponent implements OnInit {
+
+  new
 
   constructor() { }
 

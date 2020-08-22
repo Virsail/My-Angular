@@ -6,6 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { FormComponent } from './form/form.component';
+import { QuoteComponent } from './quote/quote.component';
 
 
 @NgModule({
@@ -13,6 +14,7 @@ import { FormComponent } from './form/form.component';
     AppComponent,
     TopBarComponent,
     FormComponent,
+    QuoteComponent,
     
   ],
   imports: [
