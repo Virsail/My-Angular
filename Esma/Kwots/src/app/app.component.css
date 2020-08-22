@@ -33,3 +33,12 @@
    background-attachment: fixed;
   }
 }
+
+#date{
+  font-size: 1.3em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: normal;
+  letter-spacing: 0.2em;
+  opacity: 0.6;
+  filter: alpha(opacity)
+}

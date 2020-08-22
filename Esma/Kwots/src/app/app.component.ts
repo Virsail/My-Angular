@@ -10,6 +10,11 @@ export class AppComponent {
 
   name = 'Angular';
   randomNumber;
+
+  ngOnInit() {
+    this.startDate();
+    this.startTime();
+  }
 }
 
 
