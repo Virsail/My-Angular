@@ -8,6 +8,7 @@ import { TopBarComponent } from './top-bar/top-bar.component';
 import { FormComponent } from './form/form.component';
 import { QuoteComponent } from './quote/quote.component';
 import { QuoteDetailsComponent } from './quote-details/quote-details.component';
+import { HighlightQuoteDirective } from './highlight-quote.directive';
 
 
 @NgModule({
@@ -17,6 +18,7 @@ import { QuoteDetailsComponent } from './quote-details/quote-details.component';
     FormComponent,
     QuoteComponent,
     QuoteDetailsComponent,
+    HighlightQuoteDirective,
     
   ],
   imports: [
