@@ -9,6 +9,7 @@ import { FormComponent } from './form/form.component';
 import { QuoteComponent } from './quote/quote.component';
 import { QuoteDetailsComponent } from './quote-details/quote-details.component';
 import { HighlightQuoteDirective } from './highlight-quote.directive';
+import { DatePipePipe } from './date-pipe.pipe';
 
 
 @NgModule({
@@ -19,6 +20,7 @@ import { HighlightQuoteDirective } from './highlight-quote.directive';
     QuoteComponent,
     QuoteDetailsComponent,
     HighlightQuoteDirective,
+    DatePipePipe,
     
   ],
   imports: [
