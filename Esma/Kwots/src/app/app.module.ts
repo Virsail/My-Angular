@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { FormComponent } from './form/form.component';
 import { QuoteComponent } from './quote/quote.component';
+import { QuoteDetailsComponent } from './quote-details/quote-details.component';
 
 
 @NgModule({
@@ -15,6 +16,7 @@ import { QuoteComponent } from './quote/quote.component';
     TopBarComponent,
     FormComponent,
     QuoteComponent,
+    QuoteDetailsComponent,
     
   ],
   imports: [
