@@ -8,7 +8,7 @@ import { Quote } from '../quote';
 })
 export class FormComponent implements OnInit {
 
-  newQuote = new Quote
+  quoted = new Quote(0,"","","","",new Date(),0,0);
 
   constructor() { }
 
