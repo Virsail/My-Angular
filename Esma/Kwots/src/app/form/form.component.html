@@ -1,3 +1,5 @@
 <div class="container-fluid">
     <h2 class="heading">Add Quote</h2>
     <!-- <hr> -->
+    <form (ngSubmit)='addQuote() ;quotesForm.resetForm({})' #quotesForm='ngForm'>
+        <div class="form-group">
