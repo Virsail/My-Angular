@@ -1,4 +1,4 @@
- /*Code for my header 1 in my .css file*/
+ 
  h1 {
     font-family: 'Special Elite', cursive;
     color: white;
@@ -11,3 +11,18 @@
   h4 {
     font-family: 'Architects Daughter', cursive;
   }
+  span{
+    font-family: 'Architects Daughter', cursive;
+  }
+  .overlay{
+    background-color:rgba(0, 225, 255, 0.301);
+    border-radius: 5px;
+    margin-top:4%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 5%;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-bottom: 5%;
+  }
+
