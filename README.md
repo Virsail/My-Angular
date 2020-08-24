@@ -62,7 +62,9 @@ To get more help on the Angular CLI use `ng help`
 ## Contact Information 
 
 Reach me on @Ericmbagaya@gmail.com
+Feel free to visit the link 
 
-## License
-* *MIT License:*
+### License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Copyright (c) 2020 @mbagaya
 
