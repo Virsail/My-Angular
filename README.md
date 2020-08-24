@@ -49,19 +49,20 @@ To get more help on the Angular CLI use `ng help`
 
 ## Technologies Used
 
-* [HTML5](https://github.com/topics/html5)
-* [CSS](https://github.com/topics/css3)
+* [HTML]
+* [CSS]
 * [Angular]
 * markdown
-* [Bootstrap](https://github.com/topics/bootstrap)
+* [Bootstrap]
+* Typescript
+*Javascript 
 
-## Known Bugs
-* highlight directive property does not work properly
+
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+Reach me on @Ericmbagaya@gmail.com
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+
