@@ -11,8 +11,7 @@ export class QuoteComponent implements OnInit {
   title = 'welcome to Esma quotes';
   quotes:Quote[] = [
     new Quote (1,'Virsail','Life','The hard days are what make you stronger.','Albert Einstein', new Date(2020,8,24),0,0),
-    new Quote (2,'Mbagaya','Positivity','If you believe it work out , you see opportunities.','Max Frisch',new Date(2020,8,23),0,0),
-    new Quote (3,'Mikey','Sucess','Keep your eyes on the stars,and your feet on the ground.','Libby Larsen',new Date(2020,8,22),0,0),
+  
   ];
   get sortQuotes() {
     return this.quotes.sort((a, b) => {
