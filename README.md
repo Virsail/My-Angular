@@ -66,7 +66,7 @@ BDD
 ## Contact Information 
 
 Reach me on @Ericmbagaya@gmail.com
-Feel free to visit the link 
+Feel free to visit the link https://virsail.github.io/My-Angular/
 
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
