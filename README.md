@@ -57,6 +57,10 @@ To get more help on the Angular CLI use `ng help`
 * Typescript
 *Javascript 
 
+BDD
+- This application is built on Angular Cli , user gets to input a quote and add it to the list of quotes ,quote details get displayed in a card-form on the right of the container class 
+- Quotes can be deleted ,upvoted ,downvoted and contain a custom pipe that shows how much time  has passed since submission of the quote.
+
 
 
 ## Contact Information 
