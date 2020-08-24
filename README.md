@@ -12,7 +12,7 @@ This is agular cli application that displays quotes, allow the user to input new
 
 
 
-This project was generated with [Angular CLI]() version 8.2.1.
+This project was generated with [Angular CLI](https://virsail.github.io/My-Angular/) version 8.2.1.
 
 ## Development server
 
@@ -66,7 +66,7 @@ BDD
 ## Contact Information 
 
 Reach me on @Ericmbagaya@gmail.com
-Feel free to visit the link https://virsail.github.io/My-Angular/
+Feel free to visit the link (https://github.com/Virsail)
 
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
