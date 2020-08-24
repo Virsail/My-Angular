@@ -1,6 +1,5 @@
  
  h1 {
-    font-family: 'Special Elite', cursive;
     color: white;
     text-align: center;
     font-weight: bolder;
@@ -9,14 +8,14 @@
   }
 
   h4 {
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Roboto', Arial, sans-serif;
   }
   span{
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Roboto', Arial, sans-serif;
   }
   .overlay{
-    background-color:rgba(0, 225, 255, 0.301);
-    border-radius: 5px;
+    background-color: #283b42;
+    border-radius: 20px;
     margin-top:4%;
     margin-left: 4%;
     margin-right: 4%;
@@ -24,9 +23,10 @@
     padding-top: 1%;
     padding-left: 1%;
     padding-bottom: 5%;
+    
   }
   #name{
-    color:rgb(43, 214, 0);
+    color:yellowgreen;
     font-weight: 700;
   }
   .all-cards{
@@ -51,7 +51,7 @@
     font-weight: 700;
   }
   .card-text{
-    font-family: 'Handlee', cursive;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 570;
     font-size: 18px;
   }

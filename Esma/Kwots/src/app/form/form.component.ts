@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Output } from '@angular/core';
 import { Quote } from '../quote';
 
 @Component({
@@ -11,14 +11,14 @@ export class FormComponent implements OnInit {
   quoted = new Quote(0,"","","","",new Date(),0,0);
   
 
+  
+
 
 
 
 
   addQuote(){
     
-
-
     this.quoted = new Quote(0,"","","","",new Date(),0,0);
   }
   

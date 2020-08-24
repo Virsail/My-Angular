@@ -1,6 +1,8 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
+import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2'
+
 
 
 
@@ -30,6 +32,7 @@ import { DatePipePipe } from './date-pipe.pipe';
     BrowserModule,
     AppRoutingModule,
     FormsModule,
+    SweetAlert2Module.forRoot(),
   
   ],
   providers: [],

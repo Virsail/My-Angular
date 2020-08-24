@@ -4,10 +4,10 @@
     </h1>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-3">
+        <div class="col-sm-6">
             <app-form (add)="addedQuote($event)"></app-form>
         </div>
-        <div class="col-sm-9">
+        <div class="col-sm-6">
             <div class="all-cards">
               <div *ngFor="let quote of sortQuotes let i= index" class="card" style="width: 24rem;"  >
                 <div class="card-body">
@@ -21,6 +21,7 @@
             </div>
           </div>
         </div>
-      </div>
+        </div>
+      
     
     </div>

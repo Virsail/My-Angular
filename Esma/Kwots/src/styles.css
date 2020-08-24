@@ -1,5 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.css";
+@import "@fortawesome/fontawesome-free/css/all.css"; 
+
+
+
 
 * {
     font-family: 'Roboto', Arial, sans-serif;
@@ -170,4 +174,12 @@ body {
     max-width: 120rem;
     margin: auto;
     padding: 0 1.2rem;
+}
+
+body{
+  background-image: url("../src/assets/images/quotesbg.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
